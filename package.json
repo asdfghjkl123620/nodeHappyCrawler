@@ -1,0 +1,31 @@
+{
+  "name": "node_we_crawler",
+  "version": "1.0.0",
+  "description": "web every crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asdfghjkl123620/node_we_crawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "nightmare",
+    "Node.js"
+  ],
+  "author": "David Chin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/asdfghjkl123620/node_we_crawler/issues"
+  },
+  "homepage": "https://github.com/asdfghjkl123620/node_we_crawler#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^16.2.0",
+    "moment": "^2.24.0",
+    "nightmare": "^3.0.2"
+  }
+}

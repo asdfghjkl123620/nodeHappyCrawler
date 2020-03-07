@@ -1,0 +1,122 @@
+[
+    {
+        "dateTime": "2018-03-01",
+        "price_us": 707,
+        "price_tw": 21210
+    },
+    {
+        "dateTime": "2018-04-01",
+        "price_us": 682,
+        "price_tw": 20460
+    },
+    {
+        "dateTime": "2018-05-01",
+        "price_us": 672,
+        "price_tw": 20160
+    },
+    {
+        "dateTime": "2018-06-01",
+        "price_us": 646,
+        "price_tw": 19380
+    },
+    {
+        "dateTime": "2018-07-01",
+        "price_us": 639,
+        "price_tw": 19170
+    },
+    {
+        "dateTime": "2018-08-01",
+        "price_us": 631,
+        "price_tw": 18930
+    },
+    {
+        "dateTime": "2018-09-01",
+        "price_us": 663,
+        "price_tw": 19890
+    },
+    {
+        "dateTime": "2018-10-01",
+        "price_us": 672,
+        "price_tw": 20160
+    },
+    {
+        "dateTime": "2018-11-01",
+        "price_us": 660,
+        "price_tw": 19800
+    },
+    {
+        "dateTime": "2018-12-01",
+        "price_us": 664,
+        "price_tw": 19920
+    },
+    {
+        "dateTime": "2019-01-01",
+        "price_us": 676,
+        "price_tw": 20280
+    },
+    {
+        "dateTime": "2019-02-01",
+        "price_us": 676,
+        "price_tw": 20280
+    },
+    {
+        "dateTime": "2019-03-01",
+        "price_us": 679,
+        "price_tw": 20370
+    },
+    {
+        "dateTime": "2019-04-01",
+        "price_us": 681,
+        "price_tw": 20430
+    },
+    {
+        "dateTime": "2019-05-01",
+        "price_us": 683,
+        "price_tw": 20490
+    },
+    {
+        "dateTime": "2019-06-01",
+        "price_us": 681,
+        "price_tw": 20430
+    },
+    {
+        "dateTime": "2019-07-01",
+        "price_us": 696,
+        "price_tw": 20880
+    },
+    {
+        "dateTime": "2019-08-01",
+        "price_us": 691,
+        "price_tw": 20730
+    },
+    {
+        "dateTime": "2019-09-01",
+        "price_us": 685,
+        "price_tw": 20550
+    },
+    {
+        "dateTime": "2019-10-01",
+        "price_us": 683,
+        "price_tw": 20490
+    },
+    {
+        "dateTime": "2019-11-01",
+        "price_us": 689,
+        "price_tw": 20670
+    },
+    {
+        "dateTime": "2019-12-01",
+        "price_us": 696,
+        "price_tw": 20880
+    },
+    {
+        "dateTime": "2020-01-01",
+        "price_us": 697,
+        "price_tw": 20910
+    },
+    {
+        "dateTime": "2020-02-01",
+        "price_us": 688,
+        "price_tw": 20640
+    }
+]
